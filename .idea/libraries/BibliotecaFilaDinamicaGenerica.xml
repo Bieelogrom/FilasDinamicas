@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BibliotecaFilaDinamicaGenerica">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BibliotecaFilaDinamicaGenerica/out/artifacts/BibliotecaFilaDinamicaGenerica_jar/BibliotecaFilaDinamicaGenerica.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
